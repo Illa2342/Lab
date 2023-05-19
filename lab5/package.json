@@ -14,7 +14,7 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "author": "Kestan Edem",
+  "author": "Drobnyy Illya",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
